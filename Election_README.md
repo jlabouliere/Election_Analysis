@@ -42,6 +42,10 @@ Total Votes and Percentage of Votes by Candidate:
 Winning Candidate Based on Popular Vote:
 
     - Diana DeGette: with 272,892 votes and 73.8% of the Popular Vote
+    
+Notes to The Commission:
+
+The code has proven to correctly tabulate votes as prescribed and, as indicated in the next segment, can be utilized to provide additional depth of analysis for included data points like County turnout.  After some trial and error, would recommend that an indirect path to the data files not be the method of choice.  The finalized code utilized a direct pathway, and the .csv/.txt files were placed in the same folder as the .py project for efficiency.
 
 ## Challenge Overview
 In addition to the Election Audit results for candidate vote tallies, the Election Commission requested additional details for votes by County.
