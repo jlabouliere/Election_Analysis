@@ -9,11 +9,11 @@ Tasks:
     
     - List all candidates who received votes in the election
     
-    - Calculate total votes each candidate received
+    - Determin total votes each candidate received
     
     - Calculate a percentage of votes each candidate received
     
-    - Determine the winning candidate based on popular vote
+    - Confirm the winning candidate based on popular vote
 
 ## Resources
 - Data Source: election_results.csv
